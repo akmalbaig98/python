@@ -1,2 +1,2 @@
-def recite(end, take=1):
+def recite(st, take=1):
     pass
